@@ -1,0 +1,18 @@
+{
+  "name": "discordjs-v14-mongodb-template",
+  "version": "1.0.0",
+  "description": "The mongodb version of the djs-v14 template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "alwaysluxury",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "discord.js": "^14.11.0",
+    "mongoose": "^7.2.2",
+    "node-fetch": "^3.2.6"
+  }
+}
